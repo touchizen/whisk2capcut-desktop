@@ -1,4 +1,4 @@
-[English](README.md) | **한국어**
+[🇺🇸 English](README.md) | 🇰🇷 **한국어** | [🇯🇵 日本語](README.ja.md) | [🇩🇪 Deutsch](README.de.md)
 
 # Whisk2CapCut Desktop
 
