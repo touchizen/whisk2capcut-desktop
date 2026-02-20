@@ -112,7 +112,7 @@ YouTube動画1本に画像240枚。1枚ずつダウンロードし、1枚ずつC
 
 - **ウェブサイト**: [touchizen.com](https://touchizen.com)
 - **YouTube**: [@touchizen](https://youtube.com/@touchizen)
-- **Discord**: [touchizen](https://discord.gg/touchizen)
+- **Discord**: [touchizen](https://discord.gg/DTMMs8TZDN)
 
 ---
 

@@ -112,7 +112,7 @@ Google Whisk으로 AI 이미지를 대량 생성하고, CapCut 영상 프로젝�
 
 - **웹사이트**: [touchizen.com](https://touchizen.com)
 - **YouTube**: [@touchizen](https://youtube.com/@touchizen)
-- **Discord**: [touchizen](https://discord.gg/touchizen)
+- **Discord**: [touchizen](https://discord.gg/DTMMs8TZDN)
 
 ---
 

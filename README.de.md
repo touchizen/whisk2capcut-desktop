@@ -112,7 +112,7 @@ Fragen oder Feedback? Kontaktieren Sie uns unter gordon.ahn@touchizen.com
 
 - **Website**: [touchizen.com](https://touchizen.com)
 - **YouTube**: [@touchizen](https://youtube.com/@touchizen)
-- **Discord**: [touchizen](https://discord.gg/touchizen)
+- **Discord**: [touchizen](https://discord.gg/DTMMs8TZDN)
 
 ---
 
